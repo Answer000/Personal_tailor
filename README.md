@@ -1,5 +1,6 @@
 ###  私人定制-撸码歌单
 
+[![star this repo](http://githubbadges.com/star.svg?user=Yaoshicn&repo=awesome-music-for-programming&style=flat&color=bbb&background=007ecg)](https://github.com/Yaoshicn/awesome-music-for-programming)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=Yaoshicn&repo=awesome-music-for-programming&style=flat&color=bbb&background=007ecg)](https://github.com/Yaoshicn/awesome-music-for-programming/fork)
 
 ## Netease cloud music playlists 网易云音乐歌单
 
