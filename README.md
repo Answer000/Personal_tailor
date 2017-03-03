@@ -2,7 +2,7 @@
 
 [![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=-&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/-.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=-&style=flat&color=bbb&background=007ecg)](https://github.com/Yaoshicn/awesome-music-for-programming/fork)
 
-## Netease cloud music playlists 网易云音乐歌单
+## Personal-tailor playlists 网易云音乐歌单
 
 - [程序员工作专用 by 岸谷新罗-cpp](http://music.163.com/#/playlist?id=83848216)
 - [后摇-代码必备 by Popeyelau](http://music.163.com/#/playlist?id=6948994)
@@ -27,6 +27,13 @@
 - [美到窒息的纯音Jazz-hiphop](http://music.163.com/#/m/playlist?id=17705999)
 - [The Elder Scrolls V: Skyrim (The Original)（上古卷轴5游戏原声）by 风断琴音曲千哗](http://music.163.com/#/playlist?id=72020527)
 - [桶哥BUCKETHEAD柔情吉他精选集](http://music.163.com/#/playlist?id=103855351&userid=32065650&)
+
+
+## 歌星
+- [许巍](http://music.163.com/#/m/playlist?id=618143261)
+- [哟，还不错哦!](http://music.163.com/#/m/playlist?id=618145162)
+- [陈奕迅](http://music.163.com/#/m/playlist?id=618167013)
+
 
 ## Xiami music playlists 虾米音乐歌单
 - [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
