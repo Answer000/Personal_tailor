@@ -2,6 +2,13 @@
 
 [![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=-&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/-.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=-&style=flat&color=bbb&background=007ecg)](https://github.com/Yaoshicn/awesome-music-for-programming/fork)
 
+
+## 歌星
+- [喜欢❤️](http://music.163.com/#/m/playlist?id=426305167)
+- [许巍](http://music.163.com/#/m/playlist?id=618143261)
+- [哟，还不错哦!](http://music.163.com/#/m/playlist?id=618145162)
+- [陈奕迅](http://music.163.com/#/m/playlist?id=618167013)
+
 ## Personal-tailor playlists 网易云音乐歌单
 
 - [程序员工作专用 by 岸谷新罗-cpp](http://music.163.com/#/playlist?id=83848216)
@@ -29,12 +36,6 @@
 - [桶哥BUCKETHEAD柔情吉他精选集](http://music.163.com/#/playlist?id=103855351&userid=32065650&)
 
 
-## 歌星
-- [许巍](http://music.163.com/#/m/playlist?id=618143261)
-- [哟，还不错哦!](http://music.163.com/#/m/playlist?id=618145162)
-- [陈奕迅](http://music.163.com/#/m/playlist?id=618167013)
-
-
 ## Xiami music playlists 虾米音乐歌单
 - [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
 - [StarCraft (Original Game Soundtrack)](http://www.xiami.com/album/369307)
@@ -59,18 +60,8 @@
 - Noisli : http://www.noisli.com
 - defonic : http://defonic.com/
 
-## Podcasting 播客
-
-- [IPN](https://ipn.li)
-	- [IT 公论](https://ipn.li/itgonglun/)
-	- [内核恐慌](https://ipn.li/kernelpanic/)
-- [Lizhi FM](http://www.lizhi.fm)
-	- [大内密谈](http://www.lizhi.fm/14275/)
-- [ESLPod](http://www.eslpod.com/website/index_new.html)
-
 ## Radio 电台
 
 - Netease cloud music radio 网易云音乐电台
-	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰](http://music.163.com/#/djradio?id=3244011)
-	- [ 张召忠说](http://music.163.com/#/djradio?id=5375024)
-	- [ EDM 吊炸天](http://music.163.com/#/djradio?id=5125016)
+	- [真相大白话(冷知识纯干货，绝不带烫)](http://music.163.com/#/djradio?id=346491071)
+	- [暴走大事件](http://music.163.com/#/djradio?id=343061056)
