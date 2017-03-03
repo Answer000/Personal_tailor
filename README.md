@@ -4,7 +4,7 @@
 
 
 ## 歌星
-- [喜欢❤️](http://music.163.com/#/m/playlist?id=426305167)
+- [❤️](http://music.163.com/#/m/playlist?id=618144698)
 - [许巍](http://music.163.com/#/m/playlist?id=618143261)
 - [哟，还不错哦!](http://music.163.com/#/m/playlist?id=618145162)
 - [陈奕迅](http://music.163.com/#/m/playlist?id=618167013)
