@@ -1,6 +1,6 @@
 ###  私人定制-撸码歌单
 
-[![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=-&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/-.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=-&style=flat&color=bbb&background=007ecg)](https://github.com/Yaoshicn/awesome-music-for-programming/fork)
+[![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=Personal-tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal-tailor.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=Personal-tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal-tailor/fork)
 
 
 ## 歌星
