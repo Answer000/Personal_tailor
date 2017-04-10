@@ -1,6 +1,6 @@
 ###  私人定制-撸码歌单
 
-[![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=Personal-tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal-tailor.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=Personal-tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal-tailor/fork)
+[![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=Personal_tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal_tailor.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=Personal_tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal_tailor/fork)
 
 
 &nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=Personal-tailor&style=flat&color=bbb&background=da5554)](https://github.com/AnswerXu/Personal-tailor/fork)
