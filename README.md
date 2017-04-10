@@ -1,14 +1,5 @@
 ###  私人定制-撸码歌单
 
-[![star this repo](http://githubbadges.com/star.svg?user=AnswerXu&repo=Personal_tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal_tailor.git)&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=Personal_tailor&style=flat&color=bbb&background=007ecg)](https://github.com/AnswerXu/Personal_tailor/fork)
-
-
-&nbsp;&nbsp;[![fork this repo](http://githubbadges.com/fork.svg?user=AnswerXu&repo=Personal-tailor&style=flat&color=bbb&background=da5554)](https://github.com/AnswerXu/Personal-tailor/fork)
-&nbsp;&nbsp;![](https://img.shields.io/badge/platform-iOS-14D0FF.svg)
-&nbsp;&nbsp;![](https://img.shields.io/badge/language-object--C-yellow.svg)
-&nbsp;&nbsp;![](https://img.shields.io/badge/version-0.0.1-FF9E2B.svg)
-
-
 ## 歌星
 - [❤️](http://music.163.com/#/m/playlist?id=618144698)
 - [许巍](http://music.163.com/#/m/playlist?id=618143261)
