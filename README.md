@@ -1,6 +1,7 @@
 ###  私人定制-撸码歌单
 
 ## 歌星
+- [90后私人订制](http://music.163.com/#/m/playlist?id=78044620)
 - [❤️](http://music.163.com/#/m/playlist?id=618144698)
 - [许巍](http://music.163.com/#/m/playlist?id=618143261)
 - [哟，还不错哦!](http://music.163.com/#/m/playlist?id=618145162)
